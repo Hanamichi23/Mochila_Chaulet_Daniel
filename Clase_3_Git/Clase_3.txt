@@ -1,0 +1,7 @@
+En esta clase:
+
+- Vimos una introducción a Git y su instalación.
+- Vimos la creación de repositorios locales.
+- Vimos cómo agregar archivos al repositorio local.
+- Vimos cómo confirmar los archivos en el repositorio local.
+- Realizamos un ejercicio gráfico para comprender mejor lo visto en clase.

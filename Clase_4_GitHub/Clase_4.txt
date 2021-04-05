@@ -1,0 +1,9 @@
+En esta clase:
+
+- Vimos el uso de GitHub y la creación de repositorios remotos.
+- Vimos cómo conectar el repositorio local con el remoto.
+- Vimos cómo subir archivos desde el repositorio local al remoto.
+- Vimos cómo bajar archivos desde el repositio remoto al local.
+- Vimos cómo manejar la resolución de conflictos.
+- Realizamos un ejercicio de a pares para poner en práctica lo aprendido en clase.
+- Introdujimos la 'Mochila del Viajero'.

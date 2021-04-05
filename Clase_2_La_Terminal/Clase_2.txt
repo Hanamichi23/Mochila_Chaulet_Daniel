@@ -1,0 +1,6 @@
+En esta clase:
+
+- Instalamos Visual Studio Code.
+- Vimos una introducción sobre la terminal.
+- Vimos qué son los comandos y cuáles existen.
+- Realizamos dos ejercicios sobre el tema.

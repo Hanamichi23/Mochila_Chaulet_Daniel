@@ -1,0 +1,7 @@
+En esta clase:
+
+- Nos presentamos.
+- Vimos el programa de la materia y el formato de la cursada.
+- Vimos la definición de computadora, una breve historia de la informática, y reflexionamos sobre el futuro.
+- Vimos definiciones de diferentes términos relacionados con el software, el hardware, los servidores y las interfaces de usuario.
+- Introdujimos una wiki colaborativa.

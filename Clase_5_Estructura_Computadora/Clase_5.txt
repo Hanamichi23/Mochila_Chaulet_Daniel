@@ -1,0 +1,8 @@
+En esta clase:
+
+- Vimos los distintos componentes que hacen a una computadora, distinguiendo entre componentes internos y externos.
+- Vimos los distintos dispositivos que pueden estas conectados a una computadora,
+  clasificándolos como periféricos de entrada, de salida o mixtos.
+- Vimos las características del CPU y cómo se diferencia del GPU.
+- Vimos la arquitectura de comunicación entre los componentes.
+- Realizamos dos ejercitaciones comparando entre distintos CPUs, celulares, consolas, etc.
