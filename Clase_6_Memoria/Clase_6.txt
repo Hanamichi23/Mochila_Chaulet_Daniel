@@ -1,0 +1,11 @@
+En esta clase:
+
+- Empezamos con una introducción a las memorias (qué son?, por qué existen?, qué función cumplen?, etc.).
+- Vimos los dos tipos de memoria que existen (principal y secundaria) y distintos ejemplos de cada una.
+- Profundizamos sobre la memoria RAM (velocidad, capacidad, latencia y voltaje).
+- Vimos las diferentes unidades de medida que existen y cómo se relacionan entre ellas.
+- Vimos en más detalle las distintas memorias principales (registros, caché y RAM).
+- Vimos en más detalle las distintas memorias secundarias (de tipo magnético, óptico y sólido).
+- Vimos sobre los sistemas númericos: qué son?, tipos (posicional y no posicional), bases, dígitos y conversiones.
+- Vimos distintos métodos que utiliza una computadora para el almacenamiento de datos: fragmentación, segmentación y paginación.
+- Realizamos ejercicios relacionados con las conversiones entre diferentes unidades de medida y entre diferentes sistemas numéricos.
