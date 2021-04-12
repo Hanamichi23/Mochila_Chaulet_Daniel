@@ -1,0 +1,10 @@
+En esta clase:
+
+- Vimos qué es un sistema operativo y sus funcionalidades.
+- Vimos las diferentes clasificaciones que existen de sistemas operativos: por usuario, por gestión de tareas,
+  por gestión de recursos y según su estructura interna.
+- Vimos las diferentes generaciones de sistemas operativos: cero, primera, segunda, tercera y cuarta.
+- Vimos ejemplos de distintos sistemas operativos según su clasificación.
+- Vimos qué es el kernel y los diferentes tipos que existen: monolítico, microkernel, híbrido y nanokernel.
+- Vimos qué son las llamadas al sistema, qué objetivo tienen, y una clasificación de las mismas.
+- Realizamos un ejercicio grupal de clasificación de los sistemas operativos más populares.
