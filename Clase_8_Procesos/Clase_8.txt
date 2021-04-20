@@ -1,0 +1,12 @@
+En esta clase:
+
+- Vimos qué es un proceso.
+- Vimos los dos tipos de procesos principales que existen: independientes y cooperativos.
+- Vimos sus diferentes estados: nuevo, listo, ejecución, bloqueado y salida.
+- Vimos los dos métodos principales de intercomunicación entre procesos (IPC): memoria compartida y paso de mensajes.
+- Vimos qué es un hilo de ejecución (thread) junto a las ventajas y desventajas de los procesadores mononúcleos y multinúcleos.
+- Vimos por qué es importante la sincronización de procesos para evitar situaciones como el colapso de la cola y la inanición.
+- Vimos los algoritmos de planificación de CPU y los diferentes criterios que se deben tener en cuenta al elegir uno.
+- Vimos cómo funcionan algunos de estos algoritmos: FIFO, RR, SJF y SRTF.
+- Realizamos una actividad grupal para simular la comunicación entre procesos.
+- Realizamos una actvidad práctica sobre algunos de los algoritmos de planificación.
