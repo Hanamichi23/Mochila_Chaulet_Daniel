@@ -1,0 +1,23 @@
+En esta clase:
+
+- Vimos las distintas clasificaciones de los lenguajes de programación:
+	
+	- Específicos y generales
+	- Alto nivel y bajo nivel
+	- Tipado débil y tipado fuerte
+	- Tipado estático y tipado dinámico
+
+- Vimos cómo se clasifican según estas categorías muchos de los lenguajes más populares.
+- Vimos qué es un framework y ejemplos del mismo.
+
+- Vimos qué son los paradigmas de programación y los diferentes tipos que existen:
+
+	- Programación imperativa (estructurada y orientada a objetos)
+	- Programación multiparadigma
+	- Programación declarativa (lógica y funcional)
+	- Programación con lenguaje específico de dominio
+
+- Vimos las definiciones de código fuente, código máquina, compilador e intérprete.
+
+- En clase realizamos una ejercitación sobre tipado débil y tipado fuerte.
+- En clase realizamos una segunda ejercitación sobre lenguajes y frameworks.
