@@ -1,0 +1,9 @@
+En esta clase:
+
+- Vimos qué son, cómo funcionan, las ventajas y desventajas de los escritorios remotos.
+- Realizamos una actividad con TeamViewer.
+- Vimos qué es una máquina virtual, sus ventajas y desventajas, y los dos tipos que existen: de sistemas y de procesos.
+- Vimos qué es un hipervisor y los dos tipos existentes (tipo 1 y tipo 2).
+- Vimos qué es un contenedor, su utilidad, las características que lo definen y las ventajas que proporcionan.
+- Vimos qué es un orquestador, para qué sirve, y las diferentes funciones con las que cumple.
+- En clase realizamos una actividad de clasificación de distintos contenedores que son muy utilizados.
