@@ -1,0 +1,9 @@
+En esta clase:
+
+- Vimos qué es una red y sus diferentes criterios de clasificación:
+  extensión greográfica, método físico de conexión, grado de autenticación y grado de difusión.
+- Vimos los dos tipos de medios de transmisión que existen (guiados y no guiados) junto a ejemplos de los mismos.
+- Vimos las características de una red de datos.
+- Vimos qué son la subida y bajada de datos, los bloques de información, los paquetes y el ping.
+- Vimos qué es la dirección IP, sus posibles tipos (estática y dinámica), qué es la puerta de enlace y comandos de red básicos para la consola.
+- Realizamos una actvidad grupal sobre la diagramación y el armado de una red para una empresa.
