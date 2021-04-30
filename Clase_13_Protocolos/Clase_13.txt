@@ -1,0 +1,15 @@
+En esta clase:
+
+- Vimos qué es un protocolo y los más importantes que rigen el funcionamiento de Internet:
+  IP, TCP, TCP/IP, DHCP, DNS, HTTP, UDP, entre otros.
+- Vimos qué es una dirección IP y cómo se relaciona con las direcciones web (URI) de Internet.
+- Vimos el formato que tienen las direcciones IP y las diferentes clasificaciones que existen:
+  - Pública y privada
+  - Estática y dinámica
+  - De clase A, B y C
+  - IPv4 e IPv6.
+- Vimos qué es la máscara de subred, su función y su formato.
+- Vimos que existen direcciones IP reservadas: una para el Router (también llamada puerta de enlace)
+  y otra para el Broadcast (enviar un mensaje a todos los dispositivos conectados a la red).
+- Vimos las ventajas que tiene el protocolo IPv6 comparado con el IPv4.
+- Realizamos una actividad grupal de identificación de protocolos.
