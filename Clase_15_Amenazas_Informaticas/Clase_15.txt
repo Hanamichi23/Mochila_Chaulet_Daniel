@@ -1,0 +1,10 @@
+En esta clase:
+
+- Vimos qué es la seguridad informática, cómo nació y cómo fue evolucionando.
+- Vimos qué es un malware y los principales tipos existentes.
+- Vimos en mayor detalle algunos tipos de malware: virus, troyanos, gusanos, backdoors, adware, spyware, rootkit y ransomware.
+- Vimos los tres principios de la seguridad de la información: integridad, disponibilidad y confidencialidad.
+- Vimos qué medidas, tanto preventivas como reactivas, se pueden tomar para proteger cada una de estas tres dimensiones.
+- Vimos qué es una falla (bug) y algunos de los tipos que existen.
+- Vimos qué es una vulnerabilidad y pasos posibles para detectarlas.
+- En clase realizamos una actividad grupal sobre casos reales de amenazas informáticas.

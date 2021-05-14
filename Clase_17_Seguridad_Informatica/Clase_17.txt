@@ -1,0 +1,12 @@
+En esta clase:
+
+- Vimos qué es la seguridad de la información, los dos tipos existentes (activa y pasiva) y las buenas prácticas relacionadas con cada uno.
+- Vimos qué es el control.
+- Vimos las dos clases de medidas de seguridad: proactivas (directivas, disuasivas y preventivas) y reactivas (detectivas y correctivas).
+- Vimos qué es la auditoría, sus objetivos, sus requerimientos y las herramientas que utiliza.
+- Vimos la distinción entre seguridad física (dispositivos físicos de protección, UPS, respaldo de datos y sistemas redundantes) y
+  seguridad lógica (control de acceso, cifrado de datos, antivirus y firewalls).
+- Vimos qué son y cómo funcionan los DoS (ataque de denegación de servicio) y los DDoS (ataque de denegación de servicio distribuido).
+- Vimos qué es un hacker y los tres tipos existentes (white hat, gray hat y black hat).
+- Vimos en qué se diferencia un cracker (black hat) de un hacker.
+- En clase realizamos una actvidad grupal de simulación de asesoramiento de seguridad informática.

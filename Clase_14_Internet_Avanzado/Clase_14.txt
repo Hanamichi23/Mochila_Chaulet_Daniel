@@ -1,0 +1,14 @@
+En esta clase:
+
+- Vimos los dos tipos en los que se puede dividir el direccionamiento: redes internas y redes externas.
+- Vimos qué es el enrutamiento (routing) y cómo funciona.
+- Vimos qué es un router y sus funciones.
+- Vimos qué son las tablas de enrutamiento y cómo se componen.
+- Vimos los dos tipos de enrutamiento que existen (estático y dinámico) junto con sus ventajas y desventajas.
+- Vimos qué son los puertos, cuántos hay y cómo se agrupan.
+- Vimos algunos comandos de red: ping, tracert y netstat.
+- Vimos qué es una VPN, para qué se utiliza y sus ventajas y desventajas.
+- Vimos qué son la deep web y la dark web.
+- Vimos qué es TOR, cómo funciona y sus ventajas y desventajas.
+- Vimos qué es un proxy y un DMZ.
+- En clase realizamos una actividad grupal para relacionar los puertos y los protocolos.
